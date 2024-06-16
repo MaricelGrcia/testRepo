@@ -4,7 +4,13 @@
 </head>
 <body>
 <p>Maricel V. Garcia</p>
-
+<p><b>Maricel V. Garcia</b></p>
+<p><i>Maricel V. Garcia</i></p>
+<p><u>Maricel V. Garcia</u></p>
+<p><strike>Maricel V. Garcia<strike></p>
+<p><tt>Maricel V. Garcia</tt></p>
+<p><sup>Maricel V. Garcia</sup></p>
+<p><sub>Maricel V. Garcia</sub></p>
 </body>
 
 </html>
